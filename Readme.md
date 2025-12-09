@@ -14,6 +14,6 @@ Quick start (backend):
 Quick start (frontend):
 1. cd frontend
 2. npm install
-3. npm starts
+3. npm start
 
 Make sure MongoDB is running locally or change MONGO_URI in backend/.env.
